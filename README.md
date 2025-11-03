@@ -66,3 +66,14 @@ All price calculations are done using **integer-only math** for accuracy and sim
    - Option to add another file or proceed to payment.
 
 ---
+---
+
+## 🎨 UI Highlights
+
+- Modern **amber + white theme**  
+- Clean, boxed option containers  
+- Collapsible tiles for manual per-page selection  
+- Dialogs & dropdowns for user-friendly customization  
+- Loading animations for smooth experience  
+
+---
