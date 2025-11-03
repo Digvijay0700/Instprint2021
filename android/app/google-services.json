@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "356471636863",
+    "project_id": "instprint2021-cb6a3",
+    "storage_bucket": "instprint2021-cb6a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356471636863:android:80be48b668fdd792ec104a",
+        "android_client_info": {
+          "package_name": "com.digvijay.instprint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO6b87qijTTlRE5zLP2nuVgGKMnx7oze0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356471636863:android:d3f2692423de9790ec104a",
+        "android_client_info": {
+          "package_name": "com.example.instprint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO6b87qijTTlRE5zLP2nuVgGKMnx7oze0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
