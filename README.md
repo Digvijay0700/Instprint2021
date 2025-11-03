@@ -46,4 +46,23 @@ All price calculations are done using **integer-only math** for accuracy and sim
 | **Hosting** | Flutter App (Android + Web compatible) |
 
 ---
+## 🧭 App Flow
 
+1. **Login / Register**
+   - User signs up using email & password.
+   - Details stored in Firestore under `users` collection.
+
+2. **File Upload Page**
+   - User selects a document.
+   - Chooses color/BW options, sides, and optional binding.
+   - Real-time price calculation shown dynamically.
+
+3. **Manual Per-Page Selection**
+   - Each page can be set to “Color” or “B/W”.
+   - UI highlights color pages (light red background).
+
+4. **Cart Page**
+   - Displays all added print batches.
+   - Option to add another file or proceed to payment.
+
+---
