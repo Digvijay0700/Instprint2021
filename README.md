@@ -32,3 +32,18 @@ All price calculations are done using **integer-only math** for accuracy and sim
 | `binding_price` | Firestore | Optional binding cost |
 | `punch_price`, `staple_price` | Free (`₹0`) |
 | `double_sided_discount` | Firestore (optional) | Reduces cost for duplex printing |
+
+
+## 🧠 Tech Stack
+
+| Layer | Technology |
+|-------|-------------|
+| **Frontend** | Flutter (Dart) |
+| **Backend** | Firebase (Auth, Firestore, Storage) |
+| **State Management** | setState / Provider (as per your setup) |
+| **Database** | Cloud Firestore |
+| **Authentication** | Firebase Auth |
+| **Hosting** | Flutter App (Android + Web compatible) |
+
+---
+
